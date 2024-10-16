@@ -40,7 +40,7 @@
 ![B (7)](https://github.com/user-attachments/assets/a8ba24e4-5933-4951-9831-517d27298626)
 ### (8) Display the names of customers who have issued books in the month of June 2023
 ![B (8)](https://github.com/user-attachments/assets/46163559-578c-43ba-b3a4-77edfb8191cd)
-### (9) Retrieve the branch numbers along with the count of employees for branches having more than 5 employees
+### (9) Retrieving  book_title from book table containing history
 ![B (9)](https://github.com/user-attachments/assets/127b6d54-fc1c-4033-b9be-332e2e7d406c)
 ### (10) Retrieve the branch numbers along with the count of employees for branches having more than 5 employees
 ![B (10)](https://github.com/user-attachments/assets/6e6ebd0c-bea9-441c-a8a5-6a631bc746eb)
